@@ -1,0 +1,42 @@
+大赛打分数据集说明
+https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/WiFi_sensing/wifi sensing contest marking dataset/1698717970330771402.docx
+
+办公场景数据
+办公场景A
+房间0
+https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/WiFi_sensing/wifi sensing contest marking dataset/office/office A/1698673107737538065.zip
+
+房间1
+https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/WiFi_sensing/wifi sensing contest marking dataset/office/office A/1698673370326510553.zip
+
+房间2
+https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/WiFi_sensing/wifi sensing contest marking dataset/office/office A/1698673423889730925.zip
+
+房间3
+https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/WiFi_sensing/wifi sensing contest marking dataset/office/office A/1698673565385954510.zip
+
+办公场景B
+AP右
+https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/WiFi_sensing/wifi sensing contest marking dataset/office/office B/1698673627777235853.zip
+
+AP2中
+https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/WiFi_sensing/wifi sensing contest marking dataset/office/office B/1698673866652801338.zip
+
+AP3左
+https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/WiFi_sensing/wifi sensing contest marking dataset/office/office B/1698673901954939312.zip
+
+家庭场景数据
+场景1
+房间A
+https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/WiFi_sensing/wifi sensing contest marking dataset/home/case 1/1698674056915204189.zip
+
+房间B
+https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/WiFi_sensing/wifi sensing contest marking dataset/home/case 1/1698674248377904010.zip
+
+场景2
+房间A
+https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/WiFi_sensing/wifi sensing contest marking dataset/home/case 2/1698674411345213982.zip
+
+房间B
+https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/WiFi_sensing/wifi sensing contest marking dataset/home/case 2/1698674571907941039.zip
+
